@@ -86,11 +86,10 @@ Example error response:
 
 ## Deployment
 - **Backend Deployment**:
-  - Heroku
-  - AWS EC2
+  - AWS S3
 - **Frontend Deployment**:
-  - Vercel
-  - Netlify
+  - AWS S3
+  
 
 ## Testing
 - Use Postman to test API endpoints.

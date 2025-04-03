@@ -85,6 +85,7 @@ Logging: Winston
 Environment Variables: dotenv
 
 Folder Structure
+```
 backend/
 ├── config
 │   ├── db.js            # Database connection configuration
@@ -109,7 +110,7 @@ backend/
 ├── .env                  # Environment variables
 ├── package.json          # Project dependencies and scripts
 └── server.js    
-
+```
 
 Backend API Endpoints
 
